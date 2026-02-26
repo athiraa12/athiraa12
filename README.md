@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Quick Wins
+##  Quick Wins
 
 **Credit Risk Model** → 86% accuracy predicting loan defaults on 150K applications  
 **Vehicle Theft Analysis** → Found 73% spike + identified high-risk patterns using SQL  
@@ -22,11 +22,11 @@
 
 ---
 
-## 💡 Beyond Code
+##  Beyond Code
 
 🎤 Won debate competition | Hosted tech talks for 100+ students  
 ♟️ Chess player (because strategy matters in data too)  
-📚 Currently: Andrew Ng's ML + Deep Learning Specialization
+Currently: Andrew Ng's ML + Deep Learning Specialization
 
 ---
 
