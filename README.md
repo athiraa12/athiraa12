@@ -1,9 +1,10 @@
 # Hey👋, I'm Athira 
 
-**Data Analyst** | CS graduate | I predict credit defaults (0.86 ROC-AUC) and find patterns in messy data
+**Data Analyst** | CS graduate | Probably overthinking a dataset… or a chess move, strategy matters in both 
 
-**What I do:** Turn 150K+ records into decisions using Python, SQL, and ML  
-**What I'm after:** Entry-level Data Analyst role where I can contribute from day one  
+**What I do:** Turn 150K+ records into decisions using Python, SQL, and ML. I predict credit defaults (0.86 ROC-AUC) and find patterns in messy data.
+
+**What I'm after:** Entry-level Data Analyst role where I can contribute from day one.  
 **Location:** Coimbatore, Tamil Nadu
 
 ---
@@ -18,15 +19,15 @@
 
 ## 🛠️ Stack
 
-`Python` `SQL` `Pandas` `Scikit-learn` `SMOTE` `Matplotlib` `Seaborn` `Power BI`
+`Python` `SQL` `Statistics` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn` `Power BI` `Excel`
 
 ---
 
 ##  Beyond Code
 
-🎤 Won debate competition | Hosted tech talks for 100+ students  
-♟️ Chess player (because strategy matters in data too)  
-Currently: Andrew Ng's ML + Deep Learning Specialization
+Won debate competition | Hosted tech events & conferences- confident presenter
+Chess player (because strategy matters in data too)  
+Currently: Andrew Ng's ML + Deep Learning Speciality
 
 ---
 
