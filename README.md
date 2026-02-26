@@ -1,6 +1,6 @@
-# Hey there👋, I'm Athira Ravichandran
+# Hey👋, I'm Athira 
 
-**Fresh Data Analyst** | CS graduate | I predict credit defaults (0.86 ROC-AUC) and find patterns in messy data
+**Data Analyst** | CS graduate | I predict credit defaults (0.86 ROC-AUC) and find patterns in messy data
 
 **What I do:** Turn 150K+ records into decisions using Python, SQL, and ML  
 **What I'm after:** Entry-level Data Analyst role where I can contribute from day one  
