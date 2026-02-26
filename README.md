@@ -1,7 +1,5 @@
 # Hey👋, I'm Athira 
 
-**Data Analyst** | CS graduate | Probably overthinking a dataset… or a chess move, strategy matters in both 
-
 **What I do:** Turn 150K+ records into decisions using Python, SQL, and ML. I predict credit defaults (0.86 ROC-AUC) and find patterns in messy data.
 
 **What I'm after:** Entry-level Data Analyst role where I can contribute from day one.  
