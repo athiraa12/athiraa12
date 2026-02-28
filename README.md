@@ -30,9 +30,10 @@
 
 ##  Beyond Code
 
-Won debate competition | Hosted tech events & conferences- confident presenter
-Chess player (because strategy matters in data too)  
-Currently: Andrew Ng's ML + Deep Learning Speciality
+- Won debate competition 
+- Hosted tech events & conferences- confident presenter 
+- Chess player (because strategy matters in data too)  
+- Currently: Andrew Ng's ML + Deep Learning Speciality
 
 ---
 
