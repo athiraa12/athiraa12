@@ -1,17 +1,7 @@
 # Hey👋, I'm Athira 
+Junior Data Analyst passionate about turning data into meaningful insights. I work with Python, SQL, and statistics to analyze datasets, identify patterns, and build data-driven solutions.
 
-**What I do:** Turn 150K+ records into decisions using Python, SQL, and ML. I predict credit defaults (0.86 ROC-AUC) and find patterns in messy data.
-
-**What I'm after:** Entry-level Data Analyst role where I can contribute from day one.  
-**Location:** Coimbatore, Tamil Nadu
-
----
-
-##  Quick Wins
-
-**Credit Risk Model** → 86% accuracy predicting loan defaults on 150K applications  
-**Vehicle Theft Analysis** → Found 73% spike + identified high-risk patterns using SQL  
-**AutoML Predictor** → Automated warehouse delay prediction (Amazon-style operations)  
+Currently learning Andrew Ng's Machine Learning Speciality and improving my data analysis skills through real-world projects.
 
 ---
 
@@ -25,15 +15,6 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
----
-
-##  Beyond Code
-
-- Won debate competition 
-- Hosted tech events & conferences- confident presenter 
-- Chess player (because strategy matters in data too)  
-- Currently: Andrew Ng's ML + Deep Learning Speciality
 
 ---
 
