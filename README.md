@@ -1,10 +1,9 @@
 # Hey👋, I'm Athira 
-Junior Data Analyst trying to find stories hidden in data that other people miss. I work with Python, SQL, and statistics to analyze datasets, identify patterns, and build data-driven solutions.
-
-I can explain complex findings to non-technical stakeholders.
-
-Currently learning Andrew Ng's Machine Learning Speciality and improving my data analysis skills through real-world projects.
-
+Aspiring Data Analyst
+Python · SQL (MySQL) · Power BI 
+Built end-to-end projects, web scraping, data pipelines, SQL window functions, and dashboards.
+Currently working through Andrew Ng's ML Specialisation.
+CS graduate · Coimbatore
 ---
 
 ## Tech Stack
